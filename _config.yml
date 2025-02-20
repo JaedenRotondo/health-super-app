@@ -6,7 +6,7 @@ baseurl: "/"
 
 # Jekyll settings
 markdown: kramdown
-theme: jekyll-theme-cayman  # Updated theme (choose from GitHub Pages-supported themes)
+theme: jekyll-theme-cayman  
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -16,14 +16,6 @@ plugins:
 github:
   is_project_page: false  # Set to true if this is a project page
   actions_enabled: true  # Enable GitHub Actions for Jekyll builds
-
-# Build settings
-exclude:
-  - README.md
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor
 
 # Additional settings
 highlighter: rouge  # Syntax highlighting
