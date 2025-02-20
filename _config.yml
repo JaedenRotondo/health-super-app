@@ -1,0 +1,9 @@
+# Basic configuration settings for the project
+
+title: Health Super App
+description: A single place for patients with Inflammatory Bowel Disease (IBD) to contact their healthcare practitioners, manage their disease activity, and track their medication.
+baseurl: "/"
+
+# Jekyll settings
+markdown: kramdown
+theme: minima

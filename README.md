@@ -9,7 +9,4 @@ User Research and Persona Creation:
 target users' needs, challenges, and behaviors. This could include surveys, interviews, or
 secondary research.
 
-For user research, I used interviews as well as secondary research. The reason being that the user base for a chronic health app specifically talored to patients with IBD is rather small. Instance of IBD in Cana
-
-• Create personas: Based on your research, develop detailed personas representing
-typical users of the app. Include the user’s g
+For user research, I used interviews as well as secondary research. The reason being that the user base for a chronic health app specifically talored to patients with IBD is rather small. Instance of IBD in Canada
