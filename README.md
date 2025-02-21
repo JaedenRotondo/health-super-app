@@ -14,7 +14,7 @@
 7. [Reflection](#reflection)  
 
 ### Introduction  
-Welcome! My name is **Jaeden**, and this is a guide to developing the UI behind a **telemedicine app** for individuals with **chronic illnesses**. Below, I outline my process in designing a **UI and UX** tailored to its respective users using research methods.  
+Welcome! My name is **Jaeden**, and this is a guide to developing the UI behind a **telemedicine app** for individuals with **chronic illnesses**. Below, I've shared my process in designing a **UI and UX** tailored to its users using research methods.  
 
 ### Motivation  
 This app serves as a **centralized platform** for **patients with Inflammatory Bowel Disease (IBD)** to:  
@@ -28,11 +28,13 @@ According to a **Springer Nature** article ([source](https://link.springer.com/a
 - **Safe and effective**  
 - **Financially beneficial** for chronic disease management  
 - **Enhances patient quality of life**  
-- **Improves clinical outcomes**  
+- **Improves clinical outcomes**
+
+The reason behind implementing a specific chronic illness for the health super app is that between the 
 
 ## User Research and Persona Creation  
 
-To conduct **user research**, I used **interviews** and **secondary research**. The **small user base** for an **IBD-focused chronic health app** made these the most viable options. **Secondary literature** on IBD and telemedicine is extensive, and **interviews** can provide qualitative insights from a targeted audience. 
+To conduct user research, I used interviews and secondary research. The small user base for an IBD-focused chronic health app made these the most viable options. Secondary literature on IBD and telemedicine is extensive, and interviews can provide qualitative insights from a targeted audience. 
 
 ### Interview with an anonymous patient
 <details>
