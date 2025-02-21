@@ -35,6 +35,8 @@ According to a **Springer Nature** article ([source](https://link.springer.com/a
 To conduct **user research**, I used **interviews** and **secondary research**. The **small user base** for an **IBD-focused chronic health app** made these the most viable options. **Secondary literature** on IBD and telemedicine is extensive, and **interviews** can provide qualitative insights from a targeted audience. 
 
 ### Interview with an anonymous patient
+<details>
+  <summary>Click to expand interview details</summary>
 #### Section 1: General Information
 
 **1. How old are you?**
@@ -102,7 +104,7 @@ Answer:
 
 Is there anything else you’d like to share about your experience with telemedicine and IBD care?
 Answer:
-
+</details>
 
 ### Persona 1: Emily  
 
