@@ -37,7 +37,7 @@ The reason behind implementing a specific chronic illness for the health super a
 To conduct user research, I used interviews and secondary research. The small user base for an IBD-focused chronic health app made these the most viable options. Secondary literature on IBD and telemedicine is extensive, and interviews can provide qualitative insights from a targeted audience. 
 
 ### Interview with an anonymous patient
-[Read the full interview](interview.md){:target="_blank"}
+[Read the full interview](interview_1.md){:target="_blank"}
 
 
 
