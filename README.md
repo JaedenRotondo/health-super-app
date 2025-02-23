@@ -33,7 +33,9 @@ According to a **Springer Nature** article ([source](https://link.springer.com/a
 The reason behind implementing a specific chronic illness for the Health Super App is that all chronic diseases have specific pain points, challenges, and features that might not be scalable between different diseases. For example, the symptom tracker cannot be generalized because different diseases affect different body parts. Less obviously, however, even the medication tracker would not necessarily be scalable since some medications are self-administered and others are administered at hospitals. 
 
 ### Existing Solutions 
-FILL IN 
+Looking into the existing telemedicine apps that exist for patients with IBD, there is one large contender called MyGut created by Chrons and Colitis Canada. This app allows users to track their symptoms and export a report to their healthcare practitioners. MyGut allows users to track pain, washroom usage, and lifestyle habits (sleep, diet and nutrition) [source](https://crohnsandcolitis.ca/Support-for-You/MyGut). Also, the MyGut app acts as a resource center for patients where they can find information and resources for their illnesses. Where this app stands out in my opinion is the ability to export a document about their health, this is especially useful because it shows the history of the patient in detail. 
+
+- What this app can add! 
 
 ## User Research and Persona Creation  
 
@@ -61,8 +63,12 @@ From the data we can see that on average, women have a slightly higher prevalenc
 ### Interview with an anonymous patient 1
 [Read the full interview](interview.md){:target="_blank"}
 
+Summary: 
+
 ### Interview with an anonymous patient 2
 [Read the full interview](interview-two.md){:target="_blank"}
+
+Summary: 
 
 ### Persona 1: Emily  
 <img width="1081" alt="Screenshot 2025-02-23 at 4 14 24 PM" src="https://github.com/user-attachments/assets/65d32118-8816-435e-945d-cc4a821c74d2" />
@@ -75,9 +81,16 @@ From the data we can see that on average, women have a slightly higher prevalenc
 - Identify **key touchpoints**, **emotions**, and **potential pain points** at each stage.  
 ![Health Super App](https://github.com/user-attachments/assets/41af09ab-e47a-4955-9937-cdaaa0fe185a)
 
+## Research conclusions and Design Decision Impact
+
 
 ## Wireframing and Prototype Design  
-- **Create wireframes**: Design **low-fidelity wireframes** for key screens (e.g., home screen, medication reminder, doctor appointment scheduling).  
+- **Create wireframes**: Design **low-fidelity wireframes** for key screens (e.g., home screen, medication reminder, doctor appointment scheduling).
+### Low-fidelity wireframes: 
+<img width="667" alt="Screenshot 2025-02-23 at 6 09 58 PM" src="https://github.com/user-attachments/assets/735116f9-3fa8-4cf7-b8c4-be38241ca1ae" />
+<img width="668" alt="Screenshot 2025-02-23 at 6 10 15 PM" src="https://github.com/user-attachments/assets/974da9a6-2484-4cf8-a2c4-2bbc5b581915" />
+
+
 - **Prototype**: Develop a **clickable prototype** using **Figma, Adobe XD, or another tool** to showcase the main features and user flow.  
 
 ## Usability Testing  
