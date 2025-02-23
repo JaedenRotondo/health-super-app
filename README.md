@@ -59,9 +59,10 @@ From the data we can see that on average, women have a slightly higher prevalenc
 [Read the full interview](interview.md){:target="_blank"}
 
 ### Interview with an anonymous patient 2
-
+[Read the full interview](interview-two.md){:target="_blank"}
 
 ### Persona 1: Emily  
+<img width="1081" alt="Screenshot 2025-02-23 at 4 14 24 PM" src="https://github.com/user-attachments/assets/65d32118-8816-435e-945d-cc4a821c74d2" />
 
 ### Persona 2: Antonio  
 <img width="1076" alt="Screenshot 2025-02-20 at 5 07 35 PM" src="https://github.com/user-attachments/assets/9ba89196-ac04-45d1-863d-b5162978211e" />
