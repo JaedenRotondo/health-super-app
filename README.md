@@ -30,15 +30,30 @@ According to a **Springer Nature** article ([source](https://link.springer.com/a
 - **Enhances patient quality of life**  
 - **Improves clinical outcomes**
 
-The reason behind implementing a specific chronic illness for the health super app is that between the 
+The reason behind implementing a specific chronic illness for the Health Super App is that all chronic diseases have specific pain points, challenges, and features that might not be scalable between different diseases. For example, the symptom tracker cannot be generalized because different diseases affect different body parts. Less obviously, however, even the medication tracker would not necessarily be scalable since some medications are self-administered and others are administered at hospitals. 
 
 ## User Research and Persona Creation  
 
-To conduct user research, I used interviews and secondary research. The small user base for an IBD-focused chronic health app made these the most viable options. Secondary literature on IBD and telemedicine is extensive, and interviews can provide qualitative insights from a targeted audience. 
+To conduct user research, I used interviews and secondary research. The small user base for an IBD-focused chronic health app made these the most viable options. Secondary literature on IBD and telemedicine is extensive, and interviews can provide qualitative insights from a targeted audience. Below I will outline some of my findings that will become useful in designing the UI/UX of IBDCare. 
 
-### Interview with an anonymous patient
+### Assessment of the current literature 
+Incidence, Prevalence, and Racial and Ethnic Distribution of Inflammatory Bowel Disease in the United States
+Lewis, James D. et al.
+Gastroenterology, Volume 165, Issue 5, 1197 - 1205.e2
+
+According to this study which pooled over 14 million Americans with at least 4 years of health insurance history, IBD affects 721 per 100,000 people with a 95% confidence. When extrapolated to the American population as a whole, it totals around 2.4 million people who have IBD. 
+
+After 42,964,750 person-years of follow-up, the study also highlights age trends, gender demographics, and race demographics of those who suffer from IBD. The peak incidence age is between 20 and 30 years of age, and there are stable levels of incidence between ages 30 and 80. After 80 years, the incidence rate decreases. Here is a table showing us the results: 
+<img width="761" alt="Screenshot 2025-02-23 at 11 03 30 AM" src="https://github.com/user-attachments/assets/61eb01bc-4716-4285-9bdc-4a97c9920338" />
+
+From the data we can also make some observations about the gender of those living with IBD and their age groups. The data suggests that IBD is slightly male dominated as is shown in every age group in the above figure, but the difference is quite minimal. Regarding age, alothough the largest cohort is those between 20-30, teenagers also form a substantial cohort of those with IBD.
+
+
+
+### Interview with an anonymous patient 1
 [Read the full interview](interview.md){:target="_blank"}
 
+### Interview with an anonymous patient 2
 
 
 ### Persona 1: Emily  
