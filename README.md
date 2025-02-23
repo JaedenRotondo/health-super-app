@@ -70,6 +70,8 @@ From the data we can see that on average, women have a slightly higher prevalenc
 ## User Journey Mapping  
 - **Map the user journey**: Create a user journey map illustrating the **typical process** a user undergoes when interacting with the app.  
 - Identify **key touchpoints**, **emotions**, and **potential pain points** at each stage.  
+![Health Super App](https://github.com/user-attachments/assets/41af09ab-e47a-4955-9937-cdaaa0fe185a)
+
 
 ## Wireframing and Prototype Design  
 - **Create wireframes**: Design **low-fidelity wireframes** for key screens (e.g., home screen, medication reminder, doctor appointment scheduling).  
