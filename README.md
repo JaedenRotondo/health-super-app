@@ -44,9 +44,13 @@ Gastroenterology, Volume 165, Issue 5, 1197 - 1205.e2
 According to this study which pooled over 14 million Americans with at least 4 years of health insurance history, IBD affects 721 per 100,000 people with a 95% confidence. When extrapolated to the American population as a whole, it totals around 2.4 million people who have IBD. 
 
 After 42,964,750 person-years of follow-up, the study also highlights age trends, gender demographics, and race demographics of those who suffer from IBD. The peak incidence age is between 20 and 30 years of age, and there are stable levels of incidence between ages 30 and 80. After 80 years, the incidence rate decreases. Here is a table showing us the results: 
+#### Incidence Chart
 <img width="761" alt="Screenshot 2025-02-23 at 11 03 30 AM" src="https://github.com/user-attachments/assets/61eb01bc-4716-4285-9bdc-4a97c9920338" />
 
-From the data we can also make some observations about the gender of those living with IBD and their age groups. The data suggests that IBD is slightly male dominated as is shown in every age group in the above figure, but the difference is quite minimal. Regarding age, alothough the largest cohort is those between 20-30, teenagers also form a substantial cohort of those with IBD.
+From the data we can also make some observations about the gender of those with IBD and their age groups. The data suggests that IBD incidence is slightly male-dominated as is shown in every age group in the above figure, but the difference is quite minimal. Regarding age, although the largest cohort is those between 20-30, teenagers also form a substantial cohort of those with IBD.
+
+#### Prevalence Chart 
+<img width="738" alt="Screenshot 2025-02-23 at 11 45 48 AM" src="https://github.com/user-attachments/assets/3755dde3-a469-4934-ba53-69fca0c71d35" />
 
 
 
