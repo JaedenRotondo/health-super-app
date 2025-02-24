@@ -157,7 +157,16 @@ P**referred Dashboard Features:** Appointment booking, test results, and test re
 ![Health Super App](https://github.com/user-attachments/assets/41af09ab-e47a-4955-9937-cdaaa0fe185a)
 
 ## Research conclusions and Design Decision Impact
+Based on the Journey Map, we can conclude that some of the important considerations in making an efficient UI/UX are: 
+1. Easy onboarding & setup – Users want a smooth and simple account creation process, ideally integrated with hospital systems.
+2. Easy symptom tracking – Users aim to monitor their condition with minimal friction, ensuring easy data entry and visualization.
+3. Help with adherence – Users need timely reminders and a simple way to log medication intake while ensuring they can track its effectiveness.
+4. Reliable appointment booking – Users want quick and easy doctor appointments with clear availability.
 
+There are also some pain points we need to watch out for:  
+1. Users struggle with technical setup and connecting to hospital systems.
+2. Users not tracking symptoms because it is convoluted or takes too long.
+3. Since user's are mostly older in age, a simple and large-text design will increase accessibility
 
 ## Color Scheme 
 ![IBDCare Color Pallete](https://github.com/user-attachments/assets/b382b9b2-07bb-49be-8db3-70f68b7884cd)
@@ -165,13 +174,13 @@ P**referred Dashboard Features:** Appointment booking, test results, and test re
 Above is the color scheme I decided to implement in my app. The green can be associated with hospital uniforms and the light pastel colors are not only easy on the eyes but give the user a calming effect that reminds them of healthcare. Even though one of the interviewees notes that he preferred dark mode, I do not think dark mode would be suitable for a healthcare app. Light mode feels more serious in clinical settings. 
 
 ## Wireframing and Prototype Design  
-- **Create wireframes**: Design **low-fidelity wireframes** for key screens (e.g., home screen, medication reminder, doctor appointment scheduling).
+
 ### Low-fidelity wireframes: 
 <img width="667" alt="Screenshot 2025-02-23 at 6 09 58 PM" src="https://github.com/user-attachments/assets/735116f9-3fa8-4cf7-b8c4-be38241ca1ae" />
 <img width="668" alt="Screenshot 2025-02-23 at 6 10 15 PM" src="https://github.com/user-attachments/assets/974da9a6-2484-4cf8-a2c4-2bbc5b581915" />
 
 
-- **Prototype**: Develop a **clickable prototype** using **Figma, Adobe XD, or another tool** to showcase the main features and user flow.  
+### High-fidelity prototype: 
 
 ## Usability Testing  
 ### Goals and Methods
@@ -189,5 +198,9 @@ Based on this, the goal of usability testing should be to see if the users were 
 To interpret feedback,
 
 ## Reflection  
-- How the **UX design process** helped identify **user needs** and improve the product.  
+By following the User Design Process, we were able to come to conclusions about app design that took into consideration the needs of our consumers. A proper design process allows developers to be empathetic towards their users and consider accessibility issues, users' prior experience with such applications and pain points they might face from poor design choices. In the case of IBDCare, the secondary research was important because it gave insight into the age, gender, and background of the population which has IBD. Knowing these demographic statistics led us to create a simple UI that would be user-friendly for an aging population. 
+
+Secondly, the interviews were helping in the design process as it gave insight on what level of experience patients with IBD have with telemedicine and how it was for them. Phone calls were hihglighted as being a poor means of communication, therefore IBDCare should use videocalls for online appointments and SMS messaging for reminders. Patients said that they would use a symptom tracker and suggested that it might be important for medical professionals, thus on the app we included medically up-to-date symptom quizes such as the Mayo Index Score. 
+
+
 - Challenges encountered during the **design process** and how they were overcome.  
