@@ -14,10 +14,10 @@
 7. [Reflection](#reflection)  
 
 ### Introduction  
-Welcome! My name is Jaeden, and this is a guide to developing the UI behind a telemedicine app for individuals with chronic illnesses. Below, I've shared my process in designing a **UI and UX** tailored to its users using research methods. The point of this blog is to highlight the correct approach to developing UI/UX using Design Thinking. Design Thinking is a non-linear yet iterative appraoch to design as follows: 
+Welcome! My name is Jaeden, and this is a guide to developing the UI behind a telemedicine app for individuals with chronic illnesses. Below, I've shared my process in designing a **UI and UX** tailored to its users using research methods. The point of this blog is to highlight the correct approach to developing UI/UX using Design Thinking. Design Thinking is a non-linear yet iterative approach to design as follows: 
 ![image](https://github.com/user-attachments/assets/cfc67bd8-7bef-4e12-a472-f0f68f1a9acb)
 
-For the sake of this project, I will only include the first iteration and explain how I would continue with testing my prototype and future steps. 
+For the sake of this project, I will only include the first iteration and explain how I would continue testing my prototype and future steps. Also, although the app would have a practitioner side, this blog will only look into the research and UI/UX development for the patient side.
 
 ### Motivation  
 This app serves as a centralized platform for patients with Inflammatory Bowel Disease (IBD) to:  
@@ -200,7 +200,8 @@ To interpret feedback,
 ## Reflection  
 By following the User Design Process, we were able to come to conclusions about app design that took into consideration the needs of our consumers. A proper design process allows developers to be empathetic towards their users and consider accessibility issues, users' prior experience with such applications and pain points they might face from poor design choices. In the case of IBDCare, the secondary research was important because it gave insight into the age, gender, and background of the population which has IBD. Knowing these demographic statistics led us to create a simple UI that would be user-friendly for an aging population. 
 
-Secondly, the interviews were helping in the design process as it gave insight on what level of experience patients with IBD have with telemedicine and how it was for them. Phone calls were hihglighted as being a poor means of communication, therefore IBDCare should use videocalls for online appointments and SMS messaging for reminders. Patients said that they would use a symptom tracker and suggested that it might be important for medical professionals, thus on the app we included medically up-to-date symptom quizes such as the Mayo Index Score. 
+Secondly, the interviews helped in the design process as they gave insight into what level of experience patients with IBD have with telemedicine and how it was for them. Phone calls were highlighted as being a poor means of communication, therefore IBDCare should use video calls for online appointments and SMS messaging for reminders. Patients said that they would use a symptom tracker and suggested that it might be important for medical professionals, thus on the app we included medically up-to-date symptom quizzes such as the Mayo Index Score. 
 
 
-- Challenges encountered during the **design process** and how they were overcome.  
+### Challenges in the design process and how they were overcome
+During the design process there were some challenges faced. Chiefly among them was the samll sample size of people who are diagnosed with IBD. Since IBD only affects 0.72 percent of Canadians, it was not easy to find many people with the illness. In spite of this, I was able to interview 2 people with IBD and create a model which was empathetic to their needs. Another way I was able to overcome this issue was by looking into secondary research. The [James Lewis](https://www.gastrojournal.org/article/S0016-5085(23)04776-5/fulltext) text was very helpful because of its large (over 14 million) sample size. 
