@@ -181,6 +181,26 @@ Above is the color scheme I decided to implement in my app. The green can be ass
 
 
 ### High-fidelity prototype: 
+#### Sign-up and login: 
+<img width="867" alt="Screenshot 2025-02-23 at 11 09 08 PM" src="https://github.com/user-attachments/assets/bb6d0667-914f-4d10-a14d-8c40a1c6374d" />
+
+#### Appointments and booking 
+<img width="726" alt="Screenshot 2025-02-23 at 11 09 26 PM" src="https://github.com/user-attachments/assets/be17fe78-c22c-4d9c-b873-d97cbfd4466a" />
+
+#### Quiz
+<img width="348" alt="Screenshot 2025-02-23 at 11 10 49 PM" src="https://github.com/user-attachments/assets/bbd25f50-bb46-4d1a-b815-b740a983efe7" />
+
+#### Symptoms 
+<img width="355" alt="Screenshot 2025-02-23 at 11 11 28 PM" src="https://github.com/user-attachments/assets/d3f852e6-7825-448e-9cea-9437378bbd2c" />
+
+#### Summary available to doctor
+<img width="375" alt="Screenshot 2025-02-23 at 11 12 10 PM" src="https://github.com/user-attachments/assets/d1478b9a-8986-4f66-915c-f255d772e78c" />
+
+#### Medication Tracker
+<img width="431" alt="Screenshot 2025-02-23 at 11 12 43 PM" src="https://github.com/user-attachments/assets/83c97b86-29aa-43c8-bf44-1d46bdb8d815" />
+
+#### Analysis
+<img width="756" alt="Screenshot 2025-02-23 at 11 13 05 PM" src="https://github.com/user-attachments/assets/2b709bc8-e028-46eb-a8ca-671aad4ac808" />
 
 ## Usability Testing  
 ### Goals and Methods
