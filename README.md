@@ -1,8 +1,6 @@
-# Health Super App  
 
-## IBDCare  
+# IBDCare  
 
-### Table of Contents  
 ## IBDCare - Table of Contents
 1. [Introduction](#introduction)
 2. [Motivation](#motivation)
