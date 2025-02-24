@@ -53,6 +53,10 @@ According to a **Springer Nature** article ([source](https://link.springer.com/a
 
 The reason behind implementing a specific chronic illness for the Health Super App is that all chronic diseases have specific pain points, challenges, and features that might not be scalable between different diseases. For example, the symptom tracker cannot be generalized because different diseases affect different body parts. Less obviously, however, even the medication tracker would not necessarily be scalable since some medications are self-administered and others are administered at hospitals. 
 
+### Understanding the Issue 
+IBD is on the rise in Canada and around the world. With more patients, new assessment techniques and forms of communication will have to be established. It is already well known that many chronic patients have issues with medication adherence, and many healthcare professionals are looking into the possibility of tackling these issues with telemedicine. In creating a user-friendly app, it is important to understand the users and their accessibility needs. The IBD population is not necessarily the same as the general population or even the population of those with a chronic illness. The purpose of the below research is to determine the specific needs of IBD patients and create an accessible health app that will be effective for both patients and health professionals. 
+
+
 ### Existing Solutions 
 Looking into the existing telemedicine apps that exist for patients with IBD, there is one large contender called MyGut created by Chrons and Colitis Canada. This app allows users to track their symptoms and export a report to their healthcare practitioners. MyGut allows users to track pain, washroom usage, and lifestyle habits (sleep, diet and nutrition) [source](https://crohnsandcolitis.ca/Support-for-You/MyGut). Also, the MyGut app acts as a resource center for patients where they can find information and resources for their illnesses. Where this app stands out in my opinion is the ability to export a document about their health, this is especially useful because it shows the history of the patient in detail. 
 
@@ -200,24 +204,31 @@ Above is the color scheme I decided to implement in my app. The green can be ass
 
 ### High-fidelity prototype: 
 #### Sign-up and login: 
+The sign-up page includes some necessary information needed from the user to link their accounts to the hospital's account. 
 <img width="867" alt="Screenshot 2025-02-23 at 11 09 08 PM" src="https://github.com/user-attachments/assets/bb6d0667-914f-4d10-a14d-8c40a1c6374d" />
 
 #### Appointments and booking 
+The user can see upcoming and past appointments with summaries. They are also able to edit future appointments if they are unable to make it. There is a "Take Quiz" button on top of the future appointment card because users are prompted to do a Disease Activity Index (DAI) test which can be a useful diagnostic tool for their doctors. 
 <img width="726" alt="Screenshot 2025-02-23 at 11 09 26 PM" src="https://github.com/user-attachments/assets/be17fe78-c22c-4d9c-b873-d97cbfd4466a" />
 
 #### Quiz
+This page shows the Disease Activity Index (DAI) tool previously mentioned. 
 <img width="348" alt="Screenshot 2025-02-23 at 11 10 49 PM" src="https://github.com/user-attachments/assets/bbd25f50-bb46-4d1a-b815-b740a983efe7" />
 
 #### Symptoms 
+The symptoms page was created keeping in mind the pain points of users who do not want to spend much time tracking their symptoms. This symptom tracker allows 1-click logging where a user can tap on an image that best describes them.
 <img width="355" alt="Screenshot 2025-02-23 at 11 11 28 PM" src="https://github.com/user-attachments/assets/d3f852e6-7825-448e-9cea-9437378bbd2c" />
 
 #### Summary available to doctor
+Summary of medical history using AI: this lets doctors and users briefly review medical records in quick-paced appointments.
 <img width="375" alt="Screenshot 2025-02-23 at 11 12 10 PM" src="https://github.com/user-attachments/assets/d1478b9a-8986-4f66-915c-f255d772e78c" />
 
 #### Medication Tracker
+The medication tracker is a simple 1-click a day tracking feature that was implemented similarly to the symptom tracker. The idea is that as long as the process is quick and intuitive, the chances of the user completing the 30-second activity based on a daily notification are higher. 
 <img width="431" alt="Screenshot 2025-02-23 at 11 12 43 PM" src="https://github.com/user-attachments/assets/83c97b86-29aa-43c8-bf44-1d46bdb8d815" />
 
 #### Analysis
+Based on the statistics that are tracked on the application, graphs are produced for both doctors and users. This is another opportunity for AI to shine in creating a summarized analysis. 
 <img width="756" alt="Screenshot 2025-02-23 at 11 13 05 PM" src="https://github.com/user-attachments/assets/2b709bc8-e028-46eb-a8ca-671aad4ac808" />
 
 ## Usability Testing  
@@ -242,4 +253,4 @@ Secondly, the interviews helped in the design process as they gave insight into 
 
 
 ### Challenges in the design process and how they were overcome
-During the design process, there were some challenges faced. Chiefly among them was the small sample size of people who are diagnosed with IBD. Since IBD only affects 0.72 percent of Canadians, it was not easy to find many people with the illness. Despite this, I was able to interview 2 people with IBD and create a model which was empathetic to their needs. Another way I was able to overcome this issue was by looking into secondary research. The [James Lewis](https://www.gastrojournal.org/article/S0016-5085(23)04776-5/fulltext) text was very helpful because of its large (over 14 million) sample size. 
+During the design process, there were some challenges faced. Chiefly among them was the small sample size of people who were diagnosed with IBD. Since IBD only affects 0.72 percent of Canadians, it was not easy to find many people with the illness. Despite this, I was able to interview 2 people with IBD and create a model which was empathetic to their needs. Another way I was able to overcome this issue was by looking into secondary research. The [James Lewis](https://www.gastrojournal.org/article/S0016-5085(23)04776-5/fulltext) text was very helpful because of its large (over 14 million) sample size. 
