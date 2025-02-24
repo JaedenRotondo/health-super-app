@@ -26,7 +26,6 @@
      - [Analysis](#analysis)
 9. [Usability Testing](#usability-testing)
    - [Goals and Methods](#goals-and-methods)
-   - [Analyzing Feedback](#analyzing-feedback)
 10. [Reflection](#reflection)
 
 
