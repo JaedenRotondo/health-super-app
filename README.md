@@ -224,6 +224,7 @@ The symptoms page was created keeping in mind the pain points of users who do no
 
 #### Summary available to doctor
 Summary of medical history using AI: this lets doctors and users briefly review medical records in quick-paced appointments.
+
 <img width="375" alt="Screenshot 2025-02-23 at 11 12 10 PM" src="https://github.com/user-attachments/assets/d1478b9a-8986-4f66-915c-f255d772e78c" />
 
 #### Medication Tracker
