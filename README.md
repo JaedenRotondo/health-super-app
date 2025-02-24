@@ -90,24 +90,42 @@ Comfort with Technology: 7/10 (reasonably comfortable).
 #### Summary
 General Information:
 **Age:** 23
+
 **Diagnosis:** Ulcerative Colitis (~10 years)
+
 **Current Treatment:** Oral Pentasa and mesalamine
+
 **Telemedicine Experience:**
+
 Uses telemedicine because their doctor’s office primarily operates through Medeo Health for virtual appointments and test requisitions.
 **Biggest frustration:** Lack of support from the doctor, which can feel isolating and impersonal.
+
 **UI/UX Preferences:**
+
 **Appointment Booking:** Should be relatively easy, as calling is difficult (voicemail restrictions).
+
 **Appointment Reminders:** Prefers SMS messages.
+
 **Symptom Tracking:** Would use it if the doctor finds it useful for monitoring flares.
+
 P**referred Dashboard Features:** Appointment booking, test results, and test result availability status.
+
 **Accessibility & Design:**
+
 **Medical Information Display Preference:** Both summary and detailed reports from the doctor.
+
 **Preferred Mode:** Light mode for readability.
+
 **Comfort with Technology:** Very high.
+
 **Preferred Device for Telemedicine:** Phone.
+
 **Final Thoughts:**
+
 **#1 Desired Feature:** Integration with the hospital network and access to personal feedback to avoid feeling isolated.
+
 **Overall View on Telemedicine:** Helpful for long-distance care, as they don't live in the same city as their doctor.
+
 
 
 ### Persona 1: Emily  
