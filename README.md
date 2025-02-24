@@ -38,16 +38,17 @@ The reason behind implementing a specific chronic illness for the Health Super A
 ### Existing Solutions 
 Looking into the existing telemedicine apps that exist for patients with IBD, there is one large contender called MyGut created by Chrons and Colitis Canada. This app allows users to track their symptoms and export a report to their healthcare practitioners. MyGut allows users to track pain, washroom usage, and lifestyle habits (sleep, diet and nutrition) [source](https://crohnsandcolitis.ca/Support-for-You/MyGut). Also, the MyGut app acts as a resource center for patients where they can find information and resources for their illnesses. Where this app stands out in my opinion is the ability to export a document about their health, this is especially useful because it shows the history of the patient in detail. 
 
-- What this app can add! 
+The issue with MyGut that could be capitalized on with IBDCare is the integration of its features within the hospital context. I am proposing that this app be used by both healthcare professionals as well as patients. This would allow doctors to interpret the results of the disease tracking natively on the app, and allow for appointment booking based on hospital availability as well as direct message support. 
 
 ## User Research and Persona Creation  
 
 To conduct user research, I used interviews and secondary research. The small user base for an IBD-focused chronic health app made these the most viable options. Secondary literature on IBD and telemedicine is extensive, and interviews can provide qualitative insights from a targeted audience. Below I will outline some of my findings that will become useful in designing the UI/UX of IBDCare. 
 
 ### Assessment of the current literature 
-Incidence, Prevalence, and Racial and Ethnic Distribution of Inflammatory Bowel Disease in the United States
-Lewis, James D. et al.
-Gastroenterology, Volume 165, Issue 5, 1197 - 1205.e2
+The major research article for my secondary resource analysis is from: 
+>Incidence, Prevalence, and Racial and Ethnic Distribution of Inflammatory Bowel Disease in the United States
+>Lewis, James D. et al.
+>Gastroenterology, Volume 165, Issue 5, 1197 - 1205.e2
 
 According to this study which pooled over 14 million Americans with at least 4 years of health insurance history, IBD affects 721 per 100,000 people with a 95% confidence. When extrapolated to the American population as a whole, it totals around 2.4 million people who have IBD. 
 
@@ -68,23 +69,36 @@ From the data we can see that on average, women have a slightly higher prevalenc
 #### Summary
 General Information:
 **Age:** 53
+
 **Diagnosis:** Ulcerative Colitis (since 2007)
+
 **Current Treatment:** Mezavant
+
 **Telemedicine Experience:**
+
 Has not used telemedicine for IBD care but has used Telehealth Ontario (nurse call line) for medical advice.
 Frustration with telemedicine: Most interactions lead to ER referrals.
 Found telehealth useful in confirming the need for medical attention.
-**UI/UX Preferences:**
-Booking Appointments: Should be 5 clicks or less.
-Appointment Reminders: Prefers SMS with details.
-Symptom Tracking: Finds it important and useful, especially if it generates a history or graph to avoid repeating information.
+
+##### UI/UX Preferences:
+
+**Booking Appointments:** Should be 5 clicks or less.
+
+**Appointment Reminders:** Prefers SMS with details.
+
+**Symptom Tracking:**
+
+Finds it important and useful, especially if it generates a history or graph to avoid repeating information.
 Preferred Dashboard Features: Test result history (e.g., biopsy, blood tests), upcoming appointments.
+
 **Accessibility & Design:**
 Preferred Mode: Dark mode for readability.
-Comfort with Technology: 7/10 (reasonably comfortable).
+
+**Comfort with Technology:** 7/10 (reasonably comfortable).
+
 **Preferred Device for Telemedicine:** Mobile phone.
-**Final Thoughts:**
-#1 Desired Feature: Direct contact with a doctor’s office, ideally a nurse, for quick responses—better than calling.
+
+**#1 Desired Feature:** Direct contact with a doctor’s office, ideally a nurse, for quick responses—better than calling.
 
 
 ### Interview with an anonymous patient 2
