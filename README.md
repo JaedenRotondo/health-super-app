@@ -160,8 +160,19 @@ Above is the color scheme I decided to implement in my app. The green can be ass
 - **Prototype**: Develop a **clickable prototype** using **Figma, Adobe XD, or another tool** to showcase the main features and user flow.  
 
 ## Usability Testing  
-- **Plan a usability test**: Define a usability testing plan including goals, user tasks, and how feedback is collected.  
-- **Analyze feedback**: Outline methods to interpret user feedback and iterate on the design.  
+### Goals and Methods
+According to [digitical.gov](https://digital.gov), usability is "how easily and effectively people can accomplish their goals using a product or system, while having a positive experience."
+
+Based on this, the goal of usability testing should be to see if the users were able to accomplish what they wanted to do in the app. For example, if they were able to sign up, login, book an appointment, track symptoms and take symptoms tests. Here are some survey questions we can ask users after user-testing the app: 
+
+1. How intuitive do you rank the application overall? Was it positive or negative?
+2. How was your experience tracking symptoms? Were there symptoms you had that were missing?
+3. How was your experience booking an appointment? Was there anything which confused you?
+4. How was your experience signing up and logging in? Was there anything which confused you?
+5. Did you understand all of the terminology used in the Disease Activity Index scoring test?
+
+### Analyzing Feedback 
+To interpret feedback,
 
 ## Reflection  
 - How the **UX design process** helped identify **user needs** and improve the product.  
