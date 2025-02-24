@@ -166,7 +166,7 @@ Based on the Journey Map, we can conclude that some of the important considerati
 There are also some pain points we need to watch out for:  
 1. Users struggle with technical setup and connecting to hospital systems.
 2. Users not tracking symptoms because it is convoluted or takes too long.
-3. Since user's are mostly older in age, a simple and large-text design will increase accessibility
+3. Since users are mostly older, a simple and large-text design will increase accessibility
 
 ## Color Scheme 
 ![IBDCare Color Pallete](https://github.com/user-attachments/assets/b382b9b2-07bb-49be-8db3-70f68b7884cd)
@@ -206,7 +206,7 @@ Above is the color scheme I decided to implement in my app. The green can be ass
 ### Goals and Methods
 According to [digitical.gov](https://digital.gov), usability is "how easily and effectively people can accomplish their goals using a product or system, while having a positive experience."
 
-Based on this, the goal of usability testing should be to see if the users were able to accomplish what they wanted to do in the app. For example, if they were able to sign up, login, book an appointment, track symptoms and take symptoms tests. Here are some survey questions we can ask users after user-testing the app: 
+Based on this, the goal of usability testing should be to see if the users were able to accomplish what they wanted to do in the app. For example, if they were able to sign up, log in, book an appointment, track symptoms and take symptom tests. Here are some survey questions we can ask users after user-testing the app: 
 
 1. How intuitive do you rank the application overall? Was it positive or negative?
 2. How was your experience tracking symptoms? Were there symptoms you had that were missing?
@@ -224,4 +224,4 @@ Secondly, the interviews helped in the design process as they gave insight into 
 
 
 ### Challenges in the design process and how they were overcome
-During the design process there were some challenges faced. Chiefly among them was the samll sample size of people who are diagnosed with IBD. Since IBD only affects 0.72 percent of Canadians, it was not easy to find many people with the illness. In spite of this, I was able to interview 2 people with IBD and create a model which was empathetic to their needs. Another way I was able to overcome this issue was by looking into secondary research. The [James Lewis](https://www.gastrojournal.org/article/S0016-5085(23)04776-5/fulltext) text was very helpful because of its large (over 14 million) sample size. 
+During the design process, there were some challenges faced. Chiefly among them was the small sample size of people who are diagnosed with IBD. Since IBD only affects 0.72 percent of Canadians, it was not easy to find many people with the illness. Despite this, I was able to interview 2 people with IBD and create a model which was empathetic to their needs. Another way I was able to overcome this issue was by looking into secondary research. The [James Lewis](https://www.gastrojournal.org/article/S0016-5085(23)04776-5/fulltext) text was very helpful because of its large (over 14 million) sample size. 
