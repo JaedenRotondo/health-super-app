@@ -14,15 +14,18 @@
 7. [Reflection](#reflection)  
 
 ### Introduction  
-Welcome! My name is **Jaeden**, and this is a guide to developing the UI behind a **telemedicine app** for individuals with **chronic illnesses**. Below, I've shared my process in designing a **UI and UX** tailored to its users using research methods.  
+Welcome! My name is Jaeden, and this is a guide to developing the UI behind a telemedicine app for individuals with chronic illnesses. Below, I've shared my process in designing a **UI and UX** tailored to its users using research methods. The point of this blog is to highlight the correct approach to developing UI/UX using Design Thinking. Design Thinking is a non-linear yet iterative appraoch to design as follows: 
+![image](https://github.com/user-attachments/assets/cfc67bd8-7bef-4e12-a472-f0f68f1a9acb)
+
+For the sake of this project, I will only include the first iteration and explain how I would continue with testing my prototype and future steps. 
 
 ### Motivation  
-This app serves as a **centralized platform** for **patients with Inflammatory Bowel Disease (IBD)** to:  
+This app serves as a centralized platform for patients with Inflammatory Bowel Disease (IBD) to:  
 - Contact their healthcare practitioners  
 - Manage their disease activity  
 - Track their medication  
 
-IBD is rising in **Canada**, with a **2.44% year-over-year increase**, according to the **NIH** ([source](https://pmc.ncbi.nlm.nih.gov/articles/PMC10478802/#:~:text=In%20Canada%2C%20the%20prevalence%20of,year%20over%20the%20next%20decade.)). Being a **chronic illness**, IBD requires **lifelong medical monitoring**, with disease activity fluctuating over time. Since many patients live in **rural areas**, **telemedicine** has emerged as a crucial tool.  
+IBD is rising in Canada, with a 2.44% year-over-year increase, according to the NIH ([source](https://pmc.ncbi.nlm.nih.gov/articles/PMC10478802/#:~:text=In%20Canada%2C%20the%20prevalence%20of,year%20over%20the%20next%20decade.)). Being a **chronic illness**, IBD requires **lifelong medical monitoring**, with disease activity fluctuating over time. Since many patients live in rural areas, telemedicine has emerged as a crucial tool.  
 
 According to a **Springer Nature** article ([source](https://link.springer.com/article/10.1007/s11894-020-0751-0)), telemedicine in **IBD care** is:  
 - **Safe and effective**  
