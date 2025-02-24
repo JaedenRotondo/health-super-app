@@ -3,15 +3,35 @@
 ## IBDCare  
 
 ### Table of Contents  
-1. [Introduction](#introduction)  
-2. [Motivation](#motivation)  
-3. [User Research and Persona Creation](#user-research-and-persona-creation)  
-   - [Persona 1: Emily](#persona-1-emily)  
-   - [Persona 2: Antonio](#persona-2-antonio)  
-4. [User Journey Mapping](#user-journey-mapping)  
-5. [Wireframing and Prototype Design](#wireframing-and-prototype-design)  
-6. [Usability Testing](#usability-testing)  
-7. [Reflection](#reflection)  
+## IBDCare - Table of Contents
+1. [Introduction](#introduction)
+2. [Motivation](#motivation)
+3. [Existing Solutions](#existing-solutions)
+4. [User Research and Persona Creation](#user-research-and-persona-creation)
+   - [Assessment of the Current Literature](#assessment-of-the-current-literature)
+   - [Interview with Anonymous Patient 1](#interview-with-an-anonymous-patient-1)
+   - [Interview with Anonymous Patient 2](#interview-with-an-anonymous-patient-2)
+   - [Persona 1: Emily](#persona-1-emily)
+   - [Persona 2: Antonio](#persona-2-antonio)
+5. [User Journey Mapping](#user-journey-mapping)
+6. [Research Conclusions and Design Decision Impact](#research-conclusions-and-design-decision-impact)
+7. [Color Scheme](#color-scheme)
+8. [Wireframing and Prototype Design](#wireframing-and-prototype-design)
+   - [Low-Fidelity Wireframes](#low-fidelity-wireframes)
+   - [High-Fidelity Prototype](#high-fidelity-prototype)
+     - [Sign-up and Login](#sign-up-and-login)
+     - [Appointments and Booking](#appointments-and-booking)
+     - [Symptoms](#symptoms)
+     - [Medication Tracker](#medication-tracker)
+     - [Quiz](#quiz)
+     - [Summary Available to Doctor](#summary-available-to-doctor)
+     - [Analysis](#analysis)
+9. [Usability Testing](#usability-testing)
+   - [Goals and Methods](#goals-and-methods)
+   - [Analyzing Feedback](#analyzing-feedback)
+10. [Reflection](#reflection)
+
+
 
 ### Introduction  
 Welcome! My name is Jaeden, and this is a guide to developing the UI behind a telemedicine app for individuals with chronic illnesses. Below, I've shared my process in designing a **UI and UX** tailored to its users using research methods. The point of this blog is to highlight the correct approach to developing UI/UX using Design Thinking. Design Thinking is a non-linear yet iterative approach to design as follows: 
