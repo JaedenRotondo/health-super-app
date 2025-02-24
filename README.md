@@ -142,6 +142,11 @@ P**referred Dashboard Features:** Appointment booking, test results, and test re
 ## Research conclusions and Design Decision Impact
 
 
+## Color Scheme 
+![IBDCare Color Pallete](https://github.com/user-attachments/assets/b382b9b2-07bb-49be-8db3-70f68b7884cd)
+
+Above is the color scheme I decided to implement in my app. The green can be associated with hospital uniforms and the light pastel colors are not only easy on the eyes but give the user a calming effect that reminds them of healthcare. Even though one of the interviewees notes that he preferred dark mode, I do not think dark mode would be suitable for a healthcare app. Light mode feels more serious in clinical settings. 
+
 ## Wireframing and Prototype Design  
 - **Create wireframes**: Design **low-fidelity wireframes** for key screens (e.g., home screen, medication reminder, doctor appointment scheduling).
 ### Low-fidelity wireframes: 
