@@ -166,10 +166,10 @@ P**referred Dashboard Features:** Appointment booking, test results, and test re
 
 
 ### Persona 1: Emily  
-<img width="1081" alt="Screenshot 2025-02-23 at 4 14 24 PM" src="https://github.com/user-attachments/assets/65d32118-8816-435e-945d-cc4a821c74d2" />
+<img width="968" alt="Screenshot 2025-02-23 at 11 27 05 PM" src="https://github.com/user-attachments/assets/b8fea1ca-cf5d-457f-abe7-ea18c9e1e394" />
 
 ### Persona 2: Antonio  
-<img width="1076" alt="Screenshot 2025-02-20 at 5 07 35 PM" src="https://github.com/user-attachments/assets/9ba89196-ac04-45d1-863d-b5162978211e" />
+<img width="969" alt="Screenshot 2025-02-23 at 11 25 06 PM" src="https://github.com/user-attachments/assets/b6af6cc9-15e7-4791-b808-8f28d714bcc3" />
 
 ## User Journey Mapping  
 - **Map the user journey**: Create a user journey map illustrating the **typical process** a user undergoes when interacting with the app.  
